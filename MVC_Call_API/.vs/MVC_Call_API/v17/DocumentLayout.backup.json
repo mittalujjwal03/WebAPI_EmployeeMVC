@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\businesslogiclayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\businesslogiclayer\\iservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\businesslogiclayer\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\20241008101742_initialagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241008101742_initialagain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\presentationlayer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\presentationlayer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\businesslogiclayer\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984A8F26-015A-4D0A-9616-8238E7066FDC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\irepository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\presentationlayer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21D36DF-7B72-4A57-AE84-92C7D3F4B4F6}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\20241008054720_updatedepartment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241008054720_updatedepartment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\20241007123940_initialcreated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241007123940_initialcreated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\20241008054720_updatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241008054720_updatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\mvc_call_api\\dataaccesslayer\\migrations\\20241008093821_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAB800A-6894-4BC9-9E85-83526AA61435}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20241008093821_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241008101742_initialagain.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008101742_initialagain.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241008101742_initialagain.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008101742_initialagain.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241008101742_initialagain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:17:42.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\IServices\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\IServices\\IDepartmentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:32:21.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\IServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\IServices\\IEmployeeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:20:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:22:12.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\BusinessLogicLayer\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:32:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:42:13.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:28:59.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:42:48.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:28:57.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepository\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:29:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:19:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:18:15.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Models\\Employee.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:45:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Models\\Department.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Department.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:46:04.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:36:36.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\PresentationLayer\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:42:09.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241008093821_initialDb.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008093821_initialDb.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241008093821_initialDb.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008093821_initialDb.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241008093821_initialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:38:21.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:14:50.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:32:36.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241008054720_UpdateDepartment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.Designer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:31:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241007123940_InitialCreated.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241007123940_InitialCreated.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241007123940_InitialCreated.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241007123940_InitialCreated.Designer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241007123940_InitialCreated.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:31:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241008054720_UpdateDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Call_API\\DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20241008054720_UpdateDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:47:20.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
